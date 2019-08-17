@@ -120,6 +120,7 @@ def main ():#line:59
                     O0OO0OO0OOO0OOOOO =pybase64 ._pybase64 .b64encode (OOOO0O0OOO0OO00OO )#line:125
                     O0OO0OO0OOO0OOOOO =bytes .decode (O0OO0OO0OOO0OOOOO )#line:126
                     print (Green +O0OO0OO0OOO0OOOOO +Reset )#line:127
+                    print("\nThank you for using CRYPTZ")
                     print ("\n")#line:128
                 elif O0O0O0OOOOO0O0O00 in ['D','d']:#line:129
                     clear ()#line:130
@@ -134,6 +135,7 @@ def main ():#line:59
                     OO0OO0O0OO0OO0000 =OO0O0O000O0000OO0 (OO0OO0O0OO0OO0000 )#line:139
                     OO0OO0O0OO0OO0000 =O0OOO00O0OO0O00OO (OO0OO0O0OO0OO0000 ,OOOO0OOOO0O00OOO0 )#line:140
                     print (Green +OO0OO0O0OO0OO0000 +Reset )#line:141
+                    print("\nThank you for using CRYPTZ")
                     print ("\n")#line:142
                 else :#line:143
                     print (Red +"""  Unknown Option Quiting...\n  Don't forget to follow us on Instagram!!\n"""+Reset )#line:144
