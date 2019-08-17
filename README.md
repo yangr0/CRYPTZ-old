@@ -43,3 +43,7 @@ This will be a log about each update that was made.
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Author's Note
+-Once You Encrypted Your Text There's no way back decrypting it 
+Using Another Tools Or Decryption Sites. 
+-Make sure To Save Your License Key In Safe Place Otherwise You Cannot Ecrypt Or Decrypt Anything. 
+-Have Fun With Our Tool :) 
