@@ -43,6 +43,8 @@ This will be a log about each update that was made.
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Author's Note
+-If you have any questions or problems, please contacts the authors
+
 -Once You Encrypted Your Text There's no way back decrypting it 
 Using Another Tools Or Decryption Sites.
 
