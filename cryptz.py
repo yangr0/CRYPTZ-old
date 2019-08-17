@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # made by: benelhaj_younes(do0pH2ck) and i.nc0gnt0(inc0gnit0)
+# If there are any questions or problems, please contact the authors
 try :#line:5
     import pybase64 ,sqlite3 ,re ,os ,sys ,codecs #line:6
     import datetime #line:7
