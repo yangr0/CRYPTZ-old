@@ -42,7 +42,7 @@ unknown13 ="\033[38;5;203m"#line:45
 unknown14 ="\033[38;5;113m"#line:46
 unknown15 ="\033[38;5;14m"#line:47
 def banner ():#line:49
-    print (unknown2 +"\n  https://github.com/doophack/cryptz\n")#line:50
+    print (unknown2 +"\n  https://github.com/iinc0gnit0/CRYPTZ\n")#line:50
     print (unknown15 +"   ####   #####   #   #  #####   #####  ###### ")#line:51
     print (unknown15 +"  #    #  #    #   # #   #    #    #        # ")#line:52
     print (unknown15 +"  #       #    #    #    #    #    #       # ")#line:53
