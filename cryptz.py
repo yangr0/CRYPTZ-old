@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#DO NOT TAMPER OR COPY THIS SOURCE CODE
 # made by: benelhaj_younes(do0pH2ck) and i.nc0gnt0(inc0gnit0)
 try :#line:5
     import pybase64 ,sqlite3 ,re ,os ,sys ,codecs #line:6
