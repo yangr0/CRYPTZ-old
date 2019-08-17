@@ -43,5 +43,3 @@ This will be a log about each update that was made.
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Author's Note
-
-Do not mess with the edit or copy source code without telling the authors.
