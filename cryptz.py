@@ -91,6 +91,7 @@ def main ():#line:59
                 print ("  CRYPTZ is starting!!")#line:96
                 print (unknown3 +"""
                 Welcome To CRYPTZ The Unbreakable Tool
+                clear()
                 """)#line:99
                 sl (3 )#line:100
                 clear ()#line:101
