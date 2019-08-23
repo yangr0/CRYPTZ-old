@@ -29,15 +29,7 @@ Please make sure to update tests as appropriate.
 
 ### Updates
 
-This will be a log about each update that was made.
-
-#### CRYPTZ v3.0
-
--Added new introduction looks
-
--Better intructions
-
--Bug fixes
+Cryptz 3.0 : Cryptz is released :)
 
 ### License
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
