@@ -1,6 +1,6 @@
 # CRYPTZ
 
-[cryptz](https://github.com/doophack/cryptz) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock:
+[cryptz](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock:
 
 ## Credits
 
@@ -20,7 +20,7 @@ Follow them on Instagram: __benelhaj_younes__ | __i.nc0gnit0__
 
 ```./cryptz```
 
-Now you are ready to use [cryptz](https://github.com/doophack/cryptz), enjoy!  :relaxed:
+Now you are ready to use [cryptz](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :relaxed:
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
