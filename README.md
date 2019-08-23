@@ -27,10 +27,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-### Updates
-
-Cryptz 3.0 : Cryptz is released :)
-
 ### License
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
@@ -44,3 +40,6 @@ Make sure To Save Your License Key In Safe Place Otherwise You Cannot Ecrypt Or 
 Have Fun With Our Tool :) 
 
 If you have any questions or problems, please contacts the authors.
+
+### CRYPTZ 3.0
++ CRYPTZ is released :)
