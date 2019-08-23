@@ -18,7 +18,7 @@ Follow them on Instagram: __benelhaj_younes__ | __i.nc0gnit0__
 
 ### Usage
 
-```./cryptz.py```
+```./cryptz```
 
 Now you are ready to use [cryptz](https://github.com/doophack/cryptz), enjoy!  :relaxed:
 
