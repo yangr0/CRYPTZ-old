@@ -1,6 +1,6 @@
 # CRYPTZ
 
-[cryptz](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock:
+[CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock:
 
 ## Credits
 
@@ -10,7 +10,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ### Installation
 
-```git clone https://github.com/iinc0gnit0/cryptz```
+```git clone https://github.com/iinc0gnit0/CRYPTZ```
 
 ```cd CRYPTZ```
 
@@ -20,7 +20,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ```./cryptz```
 
-Now you are ready to use [cryptz](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :relaxed:
+Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :relaxed:
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
