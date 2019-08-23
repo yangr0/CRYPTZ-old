@@ -6,7 +6,7 @@
 
 This tool is made by: __Do0pH2ck__ and __inc0gnit0__
 
-Follow them on Instagram: __benelhaj_younes__ | __i.nc0gnit0__
+Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gnit0__
 
 ### Installation
 
