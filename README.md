@@ -12,7 +12,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ```git clone https://github.com/iinc0gnit0/cryptz```
 
-```cd cryptz```
+```cd CRYPTZ```
 
 ```sudo python3 install.py```
 
