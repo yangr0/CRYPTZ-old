@@ -41,5 +41,10 @@ Have Fun With Our Tool :)
 
 If you have any questions or problems, please contacts the authors.
 
+### CRYPTZ 4.0
++ Obfuscated more
++ Updated install.py
++ Better looks
+
 ### CRYPTZ 3.0
 + CRYPTZ is released :)
