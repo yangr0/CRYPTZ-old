@@ -8,7 +8,13 @@ This tool is made by: __Do0pH2ck__ and __inc0gnit0__
 
 Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gnit0__
 
-### Installation
+## Requirements
+
++ Linux/Windows/Mac
+
++ Python 3
+
+## Installation
 
 ```git clone https://github.com/iinc0gnit0/CRYPTZ```
 
@@ -16,21 +22,21 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ```sudo python3 install.py```
 
-### Usage
+## Usage
 
 ```./cryptz```
 
 Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :relaxed:
 
-### Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-### License
+## License
 [GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-### Author's Note
+## Author's Note
 
 Once You Encrypted Your Text There's no way back decrypting it 
 Using Another Tools Or Decryption Sites.
