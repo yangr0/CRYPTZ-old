@@ -22,6 +22,8 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ```sudo python3 install.py```
 
+```chmod +x cryptz```
+
 ## Usage
 
 ```./cryptz```
