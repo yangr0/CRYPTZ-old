@@ -16,13 +16,9 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 ## Installation
 
-```git clone https://github.com/iinc0gnit0/CRYPTZ```
+You only need a one line command
 
-```cd CRYPTZ```
-
-```sudo python3 install.py```
-
-```chmod +x cryptz```
+```apt-get install git && git clone https://github.com/iinc0gnit0/CRYPTZ && cd CRYPTZ && python install.py && chmod +x cryptz && ./cryptz```
 
 ## Usage
 
