@@ -12,7 +12,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 + Linux/Windows/Mac
 
-+ Python 3.7 ,other versions unsupported at the momemt 
++ Python 3.7 ,other versions unsupported at the moment 
 
 ## Installation
 
