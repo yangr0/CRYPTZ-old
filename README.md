@@ -12,7 +12,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 + Linux/Windows/Mac
 
-+ Python 3
++ Python 3.7 ,other versions unsupported at the momemt 
 
 ## Installation
 
@@ -44,11 +44,5 @@ Make sure To Save Your License Key In Safe Place Otherwise You Cannot Ecrypt Or 
 Have Fun With Our Tool :) 
 
 If you have any questions or problems, please contacts the authors.
-
-### CRYPTZ 4.0
-+ Obfuscated more
-+ Updated install.py
-+ Better looks
-
 ### CRYPTZ 3.0
 + CRYPTZ is released :)
