@@ -18,7 +18,7 @@ Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gn
 
 You only need a one line command
 
-```sudo -i && apt-get install git && git clone https://github.com/iinc0gnit0/CRYPTZ && cd CRYPTZ && chmod +x install.py && python install.py && chmod +x cryptz && ./cryptz```
+```sudo -i && apt-get install git && git clone https://github.com/iinc0gnit0/CRYPTZ && cd CRYPTZ && chmod +x * && ./install.py```
 
 ## Usage
 
