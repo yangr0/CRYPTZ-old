@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import os
-from time import sleep
+from time import sleep as sl
 ##############################3
 Green="\033[1;33m"
 Blue="\033[1;34m"
@@ -61,10 +61,11 @@ if os.getuid() != 0:
 	exit("\033[31m" + "Please run this as root, or use sudo!" + "\033[0m")
 os.system("apt-get update")
 os.system("apt-get install python3")
+os.system("apt-get install python3.7-dev")
 os.system("apt-get install python3-pip")
 os.system("pip3 install pybase64")
-sleep(1)
-print(unknown3 + "Have Fun :)")
-sleep(3)
+sl(1)
+print(unknown3 + "Use ./cryptz | to run the tool\nHave Fun With Our Tool :D")
+sl(3)
 os.system("clear")
-os.system("python3 cryptz.py")
+os.system("./cryptz")
