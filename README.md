@@ -24,7 +24,7 @@ You only need a one line command
 
 ```./cryptz```
 
-Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :relaxed:
+Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :D
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
