@@ -6,7 +6,7 @@
 
 This tool is made by: __Do0pH2ck__ and __inc0gnit0__
 
-Follow us on Instagram and Github to support us: __benelhaj_younes__ | __i.nc0gnit0__
+Follow us on Instagram and Github to support us: __Do0pH2ck__ and __i.nc0gnit0__
 
 ## Requirements
 
@@ -28,7 +28,7 @@ Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy! 
 
 
 ## License
-[GNU General Pubic License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Author's Note
 
