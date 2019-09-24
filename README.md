@@ -2,6 +2,14 @@
 
 [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock:
 
+This is CRYPTZ encrypting.
+
+![Encrypt](https://github.com/iinc0gnit0/CRYPTZ/blob/master/Encrypt.png)
+
+This is CRYPTZ decrypting.
+
+![Decrypt](https://github.com/iinc0gnit0/CRYPTZ/blob/master/Decrypt.png)
+
 ## Credits
 
 This tool is made by: __Do0pH2ck__ and __inc0gnit0__
