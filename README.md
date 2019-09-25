@@ -40,13 +40,13 @@ Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy! 
 
 ## Author's Note
 
-Once You Encrypted Your Text There's no way back decrypting it 
-Using Another Tools Or Decryption Sites.
+Once you encrypted your text there's no way back decrypting it 
+Using another tools or decryption sites.
 
-Make sure To Save Your License Key In Safe Place Otherwise You Cannot Ecrypt Or Decrypt Anything. 
+Make sure to save your license key in safe place otherwise you cannot encrypt or decrypt anything. 
 
 Have Fun With Our Tool :) 
 
-If you have any questions or problems, please contacts the authors.
+If you have any questions or problems, please contacts the authors @iinc0gnit0@pm.me / Do0pH2ck@protonmail.com
 ### CRYPTZ 3.0
 + CRYPTZ is released :)
