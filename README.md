@@ -4,6 +4,8 @@
 
 This is CRYPTZ encrypting.
 
+![Logo](https://github.com/iinc0gnit0/CRYPTZ/blob/master/cryptz.png)
+
 ![Encrypt](https://github.com/iinc0gnit0/CRYPTZ/blob/master/Encrypt.png)
 
 This is CRYPTZ decrypting.
