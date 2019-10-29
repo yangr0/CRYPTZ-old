@@ -55,7 +55,7 @@ print("        "+unknown7+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown8+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown9+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+unknown2+"["+unknown14+"Cryptz"+unknown5+"]"+unknown+"         ")
-print("     "+purple+"           "+unknown13+"["+unknown10+"Created By Do0pH2ck && i.nc0gnit0"+unknown2+"]"+unknown10+"    "+Reset+"\n")
+print("     "+purple+"           "+unknown13+"["+unknown10+"Created By Do0pH2ck && inc0gnit0"+unknown2+"]"+unknown10+"    "+Reset+"\n")
 
 if os.getuid() != 0:
 	exit("\033[31m" + "Please run this as root, or use sudo!" + "\033[0m")
