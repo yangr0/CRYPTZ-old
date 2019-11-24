@@ -14,9 +14,9 @@ This is CRYPTZ decrypting.
 
 ## Credits
 
-This tool is made by: [__Do0pH2ck__](https://github.com/doophack) and [__inc0gnit0__](https://github.com/iinc0gnit0)
+This tool is made by: [__inc0gnit0__](https://github.com/iinc0gnit0)
 
-Follow us on Instagram to support us: [__Do0pH2ck__](https://www.instagram.com/benelhaj_younes/) and [__inc0gnit0__](https://instagram.com/i.nc0gnit0)
+Follow us on Instagram to support us: [__inc0gnit0__](https://instagram.com/inc0gnit0.offical)
 
 ## Requirements
 
