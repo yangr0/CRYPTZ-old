@@ -39,6 +39,6 @@ Make sure to save your license key in safe place otherwise you cannot encrypt or
 
 Have Fun With Our Tool :) 
 
-If you have any questions or problems, please contacts the authors via email: iinc0gnit0@pm.me / Do0pH2ck@protonmail.com
+If you have any questions or problems, please contacts the authors via email: iinc0gnit0@pm.me
 ### CRYPTZ 3.0
 + CRYPTZ is released :)
