@@ -1,6 +1,6 @@
 # CRYPTZ
 
-[CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock: [NEW VERSION HERE](https://github.com/r2dr0dn/Cryptz)
+[CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ) is a great tool for encrypting and decrypting with it being uncrackable. :key: :lock: :unlock: [NEW VERSION HERE](https://github.com/iinc0gnit0/cryptz)
 
 ## Credits
 
@@ -18,13 +18,13 @@ Follow us on Instagram to support us: [__inc0gnit0__](https://instagram.com/inc0
 
 You only need a one line command
 
-```sudo -i && apt-get install git && git clone https://github.com/iinc0gnit0/CRYPTZ && cd CRYPTZ && chmod +x * && ./install.py```
+```sudo -i && apt-get install git && git clone https://github.com/iinc0gnit0/CRYTPZ-old && cd CRYPTZ && chmod +x * && ./install.py```
 
 ## Usage
 
 ```./cryptz```
 
-Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/CRYPTZ), enjoy!  :D
+Now you are ready to use [CRYPTZ](https://github.com/iinc0gnit0/cryptz), enjoy!  :D
 
 
 ## License
